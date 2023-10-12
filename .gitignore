@@ -1,0 +1,8 @@
+.vs/
+DerivedDataCache/
+Intermediate/
+Saved/
+Content/
+.vscode/
+
+!_MyContent/
